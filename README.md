@@ -1,3 +1,6 @@
+# Disclaimer
+This lib was created from a fork of the [original Mundipagg NodeJS repo](https://github.com/mundipagg/MundiApi-NodeJS).
+
 # Getting started
 
 Mundipagg API

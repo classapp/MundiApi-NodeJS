@@ -1,12 +1,8 @@
 {
-  "name": "mundiapilib",
+  "name": "@classapp-tech/mundiapilib",
   "version": "2.4.0",
   "description": "Mundipagg API",
   "main": "./lib/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/username/repository.git"
-  },
   "scripts": {
     "lint": "eslint lib"
   },
